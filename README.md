@@ -8,6 +8,7 @@ In order to run the downloader you have to have python3 installed on your machin
 
 ### install pytube from pip
 run this command to install pytube
+
 ``` pip install pytube ```
 
 after downloading or cloning it now go to the directory that containes yt-downloader.py file and open it in the terminal or CMD
